@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LalitKanoriya
 - 👀 I’m interested in Python, OOP, Data Structures & Algorithms, Database & Web Developement
-- 🌱 I’m currently learning HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate on any DBMS, Scraping, Automation or Front-End related project
+- 🌱 I’m currently learning Node.js, Express.js & MongoDB
+- 💞️ I’m looking to collaborate on any DBMS, Scraping, Automation or Web Developement related project
 - 📫 How to reach me -> email id : lalitkanoriya112233@gmail.com
 
 <!---
