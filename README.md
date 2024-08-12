@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LalitKanoriya
-- 👀 I’m interested in  Web Developement, Python, Operating Systems, Data Structures & Algorithms
-- 🌱 I’m currently learning various Algorithms
-- 💞️ I’m looking to collaborate on any DBMS, Automation or Web Developement related project
+- 👀 I’m interested in  Web Developement, Python, Data Structures & Algorithms
+- 🌱 I’m currently working as Software Engineer
+- 💞️ I’m looking to collaborate on any Web Developement, Automation or DBMS related project
 - 📫 How to reach me -> email id : lalitkanoriya112233@gmail.com
 
 <!---
